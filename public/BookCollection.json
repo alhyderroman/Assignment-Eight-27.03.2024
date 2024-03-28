@@ -1,0 +1,174 @@
+[
+    {
+        "id": 1,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/To_Kill_a_Mockingbird_%28first_edition_cover%29.jpg/800px-To_Kill_a_Mockingbird_%28first_edition_cover%29.jpg",
+      "category": "Classic",
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "genres": "Fiction",
+      "rating": 4.5,
+      "tags": [
+            "Southern Gothic",
+            "Coming of Age",
+            "Legal Drama",
+            "Racism"
+        ],
+     "publisher": "J.B. Lippincott  Co.",
+     "review": "'To Kill a Mockingbird' by Harper Lee is a poignant and timeless masterpiece that grapples with themes of racial injustice, moral growth, and the loss of innocence in the American South. Set against the backdrop of the Great Depression, the novel follows young Scout Finch as she navigates her small town's deeply ingrained prejudices and witnesses her father, attorney Atticus Finch, defend a black man wrongly accused of raping a white woman. Lee's compelling narrative and rich character development shed light on the complexities of human nature and the enduring power of empathy and compassion in the face of adversity.",
+     "yearOfPublishing": 1960,
+      "pages": 281
+    },
+    {
+        "id": 2,
+      "image": "https://books.google.com.bd/books/publisher/content?id=WpD_DAAAQBAJ&pg=PP1&img=1&zoom=3&hl=en&bul=1&sig=ACfU3U2smY1XG0tjSZpqcsPWGRs18i-NFg&w=1280",
+      "category": "Fiction",
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "genres": "Classic",
+      "rating": 4.2,
+      "tags": [
+            "Jazz Age",
+            "American Dream",
+            "Tragedy",
+            "Social Critique"
+        ],
+      "publisher": "Charles Scribner's Sons",
+      "review": " This book is a captivating portrayal of the Roaring Twenties, delving into the opulence, excess, and disillusionment of the Jazz Age. Narrated by Nick Carraway, the story revolves around Jay Gatsby's extravagant parties and his relentless pursuit of Daisy Buchanan, a married woman from his past. Through vivid prose and intricate characterizations, Fitzgerald explores themes of wealth, love, and the American Dream, offering a searing critique of the empty pursuit of materialism and the superficiality of society. The novel's tragic conclusion serves as a poignant reminder of the fleeting nature of happiness and the consequences of living in pursuit of an unattainable dream.",
+
+      "yearOfPublishing": 1925,
+     "pages": 200
+    },
+    {
+        "id": 3,
+      "image": "https://upload.wikimedia.org/wikipedia/en/6/6b/Harry_Potter_and_the_Philosopher%27s_Stone_Book_Cover.jpg",
+      "category": "Fantasy",
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "author": "J.K. Rowling",
+      "genres": "Young Adult",
+      "rating": 4.8,
+      "publisher": "Bloomsbury Publishing",
+      "review": "J.K. Rowling's 'Harry Potter and the Sorcerer's Stone' is a captivating tale of magic, friendship, and adventure that has enchanted readers of all ages worldwide. The story follows young Harry Potter as he discovers his magical heritage and attends Hogwarts School of Witchcraft and Wizardry. Alongside his friends Ron and Hermione, Harry navigates the challenges of school, uncovers the truth about his past, and confronts the dark wizard Voldemort. Rowling's vivid imagination, engaging plot, and memorable characters make 'Harry Potter' a beloved classic that continues to inspire and delight readers with its themes of bravery, loyalty, and the power of love.",
+      "yearOfPublishing": 1997,
+      "pages": 223,
+      "tags": [
+            "Magic",
+            "Wizardry",
+            "Adventure",
+            "Friendship"
+        ]
+    },
+    {
+        "id": 4,
+        "image": "https://m.media-amazon.com/images/I/61cCcl5bFbL._AC_UF894,1000_QL80_.jpg",
+        "category": "Fiction",
+        "title": "1984",
+        "author": "George Orwell",
+        "genres": "Dystopian",
+        "rating": 4.6,
+        "publisher": "Secker & Warburg",
+         "review": "George Orwell's '1984' is a chilling dystopian masterpiece that serves as a stark warning against totalitarianism and government surveillance. Set in a dystopian future where individualism is suppressed and Big Brother watches over all, the novel follows Winston Smith as he rebels against the oppressive regime of the Party. Through powerful prose and thought-provoking themes, Orwell explores the dangers of censorship, propaganda, and the erosion of truth. '1984' remains a timeless classic that continues to resonate with readers, offering a stark reminder of the importance of freedom and the need to resist authoritarianism.",
+        "yearOfPublishing": 1949,
+        "pages": 328,
+      "tags": [
+            "Dystopian",
+            "Political",
+            "Surveillance",
+            "Totalitarianism"
+        ]
+    },
+    {
+        "id": 5,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEGs8g6aytk81XjF6E9A2KVAXUFIoBuBbxjIVutibdug&s",
+        "category": "Classic",
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "genres": "Romance",
+        "rating": 4.7,
+        "publisher": "T. Egerton, Whitehall",
+        "review": "Jane Austen's 'Pride and Prejudice' is a timeless classic that continues to enchant readers with its witty social commentary and unforgettable characters. Set in Regency-era England, the novel follows the spirited Elizabeth Bennet as she navigates the complexities of love, class, and family expectations. Through Austen's sharp wit and keen observations, 'Pride and Prejudice' explores themes of societal norms, gender roles, and the pursuit of happiness. With its engaging plot and memorable dialogue, this beloved novel remains a cornerstone of English literature, captivating readers of all ages for over two centuries.",
+        "yearOfPublishing": 1813,
+        "pages": 279,
+        "tags": [
+            "Romance",
+            "Social Commentary",
+            "Regency",
+            "Love Story"
+        ]
+    },
+    {
+        "id": 6,
+        "image": "https://c8.alamy.com/comp/P9CE9W/book-cover-of-the-catcher-in-the-rye-by-j-d-salinger-first-edition-museum-private-collection-P9CE9W.jpg",
+        "category": "Fiction",
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "genres": "Classic",
+        "rating": 4.1,
+        "publisher": "Little, Brown and Company",
+        "review": "J.D. Salinger's 'The Catcher in the Rye' is a timeless coming-of-age novel that follows the disenchanted teenager Holden Caulfield as he navigates the complexities of adolescence and society. Set against the backdrop of post-World War II America, Salinger's narrative delves into themes of alienation, identity, and teenage rebellion. Holden's candid and introspective voice resonates with readers, offering a poignant exploration of the challenges of growing up and finding one's place in the world. 'The Catcher in the Rye' remains a seminal work of literature that continues to captivate audiences with its raw honesty and authenticity.",
+       "yearOfPublishing": 1951,
+       "pages": 277,
+       "tags": [
+            "Coming of Age",
+            "Identity",
+            "Alienation",
+            "Teenage Rebellion"
+        ]
+    },
+    {
+        "id": 7,
+        "image": "https://i.pinimg.com/originals/27/cf/91/27cf91f605923223613909c7b9d2219f.jpg",
+        "category": "Fantasy",
+        "title": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "genres": "Adventure",
+        "rating": 4.4,
+        "publisher": "George Allen & Unwin",
+        "review": "J.R.R. Tolkien's 'The Hobbit' is an enchanting tale of adventure and heroism that transports readers to the magical world of Middle-earth. The story follows Bilbo Baggins, a hobbit who embarks on a perilous journey to reclaim treasure guarded by the dragon Smaug. Along the way, Bilbo encounters dwarves, elves, goblins, and other fantastical creatures, testing his courage and wit. Tolkien's richly detailed world-building, engaging characters, and epic quest make 'The Hobbit' a timeless classic beloved by readers of all ages. It's a captivating adventure filled with themes of friendship, bravery, and the power of home.",
+        "yearOfPublishing": 1937,
+        "pages": 310,
+        "tags": [
+            "Adventure",
+            "Quest",
+            "Dragons",
+            "Middle-earth"
+        ]
+    },
+    {
+        "id": 8,
+        "image": "https://m.media-amazon.com/images/I/5185oyzCNGL._AC_UF1000,1000_QL80_.jpg",
+        "category": "Fiction",
+        "title": "The Book Thief",
+        "author": "Markus Zusak",
+        "genres": "Historical Fiction",
+        "rating": 4.5,
+       " publisher": "Alfred A. Knopf",
+        "review": "Markus Zusak's 'The Book Thief' is a haunting and poignant tale set in Nazi Germany, narrated by Death itself. The story follows Liesel Meminger, a young girl who discovers the power of words and storytelling amidst the horrors of war. As Liesel steals books and shares them with her neighbors and the Jewish man hiding in her basement, she learns about love, courage, and the resilience of the human spirit. Zusak's lyrical prose, memorable characters, and unique narrative style make 'The Book Thief' a moving and unforgettable novel that celebrates the enduring power of literature.",
+        "yearOfPublishing": 2005,
+        "pages": 552,
+        "tags": [
+            "Historical Fiction",
+            "World War II",
+            "Literary Fiction",
+            "Coming of Age"
+        ]
+    },
+    {
+        "id": 9,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTen2gG4_DsnK0iM6-DM51F9Xk8junIZ2zCCxL1mZ22oQ&s",
+        "category": "Classic",
+        "title": "Jane Eyre",
+        "author": "Charlotte Bronte",
+        "genres": "Romance",
+        "rating": 4.3,
+        "publisher": "Smith, Elder & Co.",
+        "review": "Charlotte Brontë's 'Jane Eyre' is a timeless classic that transcends generations with its captivating narrative and richly drawn characters. The novel follows the life of Jane Eyre, an orphaned governess who overcomes adversity and finds love in the brooding Mr. Rochester. Brontë's masterful storytelling weaves together themes of love, independence, and social class, while exploring the complexities of morality and self-discovery. Jane's resilience and unwavering integrity make her a compelling heroine, and her journey from hardship to happiness resonates with readers around the world. 'Jane Eyre' remains a cornerstone of English literature, cherished for its enduring relevance and timeless appeal.",
+        "yearOfPublishing": 1847,
+        "pages": 624,
+        "tags": [
+            "Classic",
+            "Romance",
+            "Gothic",
+            "Feminism"
+        ]
+    }
+]
